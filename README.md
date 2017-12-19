@@ -1,10 +1,10 @@
 # Embedded-Systems-Project
-Drive three wheeled robot wirelessly via hand motions.
-NOTE: Both microcontrollers use the Atmel328P, which is on the Arduino Uno
-Sensors used (free sample of just sensors):
+* Drive three wheeled robot wirelessly via hand motions.
+* NOTE: Both microcontrollers use the Atmel328P, which is on the Arduino Uno
+* Sensors used (free sample of just sensors):
 http://ams.com/eng/Products/Magnetic-Position-Sensors/Linear-Position/AS5304
 
-Full development board can be purchased at digikey with the magnet:
+* Full development board can be purchased at digikey with the magnet:
 https://www.digikey.com/product-detail/en/ams/AS5304-TS_EK_AB/AS5304-AB-ND/3828351
 
 ## Sensor Microcontroller
